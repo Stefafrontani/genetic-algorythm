@@ -1,0 +1,9 @@
+.particle {
+  background-color: blue;
+  display: inline-block;
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+  position: absolute;
+  transition: left linear 1s, top linear 1s, bottom linear 1s;
+}

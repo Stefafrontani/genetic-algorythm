@@ -1,0 +1,10 @@
+window
+Global object
+
+screen
+Object which contains properties about the user display
+
+document
+a Property of the window object. window.object
+It's where the DOM is
+
